@@ -1,0 +1,33 @@
+{
+  "values":[
+	"minecraft:air",
+    "minecraft:void_air",
+    "minecraft:cave_air",
+	"minecraft:water",
+	"#minecraft:rails",
+	"#minecraft:buttons",
+	"#minecraft:carpets",
+	"#minecraft:coral_plants",
+	"#minecraft:corals",
+	"#minecraft:flower_pots",
+	"#minecraft:saplings",
+    "minecraft:snow",
+    "minecraft:grass",
+    "minecraft:tall_grass",
+    "#minecraft:flowers",
+    "#minecraft:banners",
+    "#minecraft:trapdoors",
+    "minecraft:sea_pickle",
+    "minecraft:seagrass",
+    "minecraft:dead_bush",
+    "minecraft:fern",
+    "minecraft:lily_pad",
+    "minecraft:large_fern",
+    "minecraft:end_rod",
+    "minecraft:torch",
+    "minecraft:redstone_torch",
+    "minecraft:redstone_wire",
+    "minecraft:lever",
+    "minecraft:fire"
+  ]
+}
